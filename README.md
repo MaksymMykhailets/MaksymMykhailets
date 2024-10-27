@@ -29,11 +29,13 @@
 </div>
 
 ###
+
+<img align="right" height="200" src="https://tenor.com/view/code-works-code-not-working-error-scaler-create-impact-gif-24991578.gif"  />
+
+###
+
 <div align="center">
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maksymmykhailets&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img align="right" height="" src="https://tenor.com/view/code-works-code-not-working-error-scaler-create-impact-gif-24991578.gif"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maksymmykhailets&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
