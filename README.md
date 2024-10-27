@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Maksym<br>A passionate frontend developer from Ukraine🇺🇦</h2>
+<h2 align="left">Hello, I'm Maksym - Junior Frontend Developer from Ukraine🇺🇦<br> <br/>Focused on learning and growing 💻</h2>
 
 ###
 
