@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning TypeScript for Node, SASS, CSS Grid<br><br>📫 How to reach me: max.craftedcode@gmail.com</p>
+<p align="left">🌱 I’m currently learning TypeScript for Node, Next.js<br><br>📫 How to reach me: max.craftedcode@gmail.com</p>
 
 ###
 
