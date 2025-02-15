@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🌱 I'm in the process of learning Angular🤯s<br><br>📫 How to reach me: max.craftedcode@gmail.com</p>
+<p align="left">🌱 I'm in the process of learning Angular🤯<br><br>📫 How to reach me: max.craftedcode@gmail.com</p>
 
 ###
 
